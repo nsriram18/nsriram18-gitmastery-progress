@@ -255,5 +255,14 @@
       "Unexpected files in staging area. Looks like you used the wrong reset mode."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1786987352.948707,
+    "completed_at": 1786987354.528715,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
   }
 ]
