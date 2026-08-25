@@ -300,5 +300,14 @@
       "Great work with merging the branches in order! Try running the HTML files locally!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-forward",
+    "started_at": 1787677270.942759,
+    "completed_at": 1787677272.329653,
+    "comments": [
+      "Great job fast-forward merging only 'with-sally'!"
+    ],
+    "status": "Completed"
   }
 ]
